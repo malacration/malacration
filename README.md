@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malacration&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malacration&show_icons=true&include_all_commits=false&count_private=true&theme=dark"/>
   <img height="190em" class="style=" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malacration&layout=compact&langs_count=8&theme=dark&hide=css,html,javascript"/>
 </div>
 
