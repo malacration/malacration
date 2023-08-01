@@ -10,6 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 25 July 2023 - To: 01 August 2023
+
+Total Time: 3 hrs 38 mins
+
 Kotlin                                 2 hrs 14 mins   █████████████▒░░░░░░░░░░░   52.98 %
 SQL                                    49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 %
 Other                                  35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
