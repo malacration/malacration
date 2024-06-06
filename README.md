@@ -6,6 +6,14 @@
 </div>
 
 
+## Contact ##
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-may-199259bb/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=5569996106666)
+
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white
+
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 #### Frontend:
