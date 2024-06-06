@@ -1,17 +1,9 @@
 # Hi there 👋
 
-<div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malacration&show_icons=true&include_all_commits=false&count_private=true&theme=dark"/>
-  <img height="190em" class="style=" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malacration&layout=compact&langs_count=8&theme=dark&hide=css,html,javascript"/>
-</div>
-
-
 ## Contact ##
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-may-199259bb/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=5569996106666)
-
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white
 
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
@@ -77,12 +69,16 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&l
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 
-
 #### IDEs and Tools 🛠:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+--------
+<div>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malacration&show_icons=true&include_all_commits=false&count_private=true&theme=dark"/>
+  <img height="190em" class="style=" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malacration&layout=compact&langs_count=8&theme=dark&hide=css,html,javascript"/>
+</div>
 
 --------
 <picture>
